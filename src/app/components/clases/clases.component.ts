@@ -11,7 +11,7 @@ export class ClasesComponent implements OnInit {
 
   loading: boolean = false;
 
-  propiedades: Object = {
+  propiedades: any = {
     danger: true
   };
 
